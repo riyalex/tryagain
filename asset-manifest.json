@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tryagain/static/css/main.0518a987.css",
+    "main.js": "/tryagain/static/js/main.38e64fe3.js",
+    "static/js/453.8ab44547.chunk.js": "/tryagain/static/js/453.8ab44547.chunk.js",
+    "static/media/user-icon.png": "/tryagain/static/media/user-icon.79487ebd1120a8a7b004.png",
+    "static/media/lawlogo.svg": "/tryagain/static/media/lawlogo.7dcc10c36b61946d617e547a3d5e95b7.svg",
+    "static/media/chatgptLogo.svg": "/tryagain/static/media/chatgptLogo.496558ea071637d128587cb98b0e1b1c.svg",
+    "static/media/rocket.svg": "/tryagain/static/media/rocket.3083828716c5d7716f71aa7e179555de.svg",
+    "static/media/send.svg": "/tryagain/static/media/send.5cc05986cf306ae5d4ce38bf6fdc3def.svg",
+    "static/media/bookmark.svg": "/tryagain/static/media/bookmark.c2178bf87e70a458757ba7290cea3ce7.svg",
+    "index.html": "/tryagain/index.html",
+    "static/media/home.svg": "/tryagain/static/media/home.54b8621214269a989c8b7627385bcd8a.svg",
+    "static/media/message.svg": "/tryagain/static/media/message.ef36f79693990ff17ecf42cd018fcb4e.svg",
+    "main.0518a987.css.map": "/tryagain/static/css/main.0518a987.css.map",
+    "main.38e64fe3.js.map": "/tryagain/static/js/main.38e64fe3.js.map",
+    "453.8ab44547.chunk.js.map": "/tryagain/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0518a987.css",
+    "static/js/main.38e64fe3.js"
+  ]
+}
